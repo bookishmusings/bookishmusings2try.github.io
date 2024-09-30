@@ -1,6 +1,8 @@
 baseURL = "https://bookishmusings.netlify.app/"
 languageCode = "en-us"
 title = "Bookish Musings by A"
+theme = "digital-garden"
+themedir = "\bookishmusings.github.io\themes\" 
 copyright = "AP©"
 enableEmojis = true
 relativeURLs = false
