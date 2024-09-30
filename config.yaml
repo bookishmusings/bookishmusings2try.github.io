@@ -4,6 +4,7 @@ enableEmoji: true
 title: Bookish Musings by A
 theme: digital-garden
 author: mynameisa
+relativeURLs: true
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
