@@ -1,8 +1,6 @@
 baseURL = "https://bookishmusings.github.io/"
 languageCode = "en-us"
 title = "Bookish Musings by A"
-theme = "digital-garden"
-themesdir = "../../"
 copyright = "AP©"
 enableEmojis = true
 relativeURLs = false
