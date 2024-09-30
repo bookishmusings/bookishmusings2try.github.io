@@ -1,4 +1,4 @@
-baseURL = "https://bookishmusings.github.io/"
+baseURL = "https://bookishmusings.netlify.app/"
 languageCode = "en-us"
 title = "Bookish Musings by A"
 copyright = "AP©"
